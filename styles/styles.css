@@ -35,8 +35,8 @@
       border-radius: 1.5rem;
       border:  1px solid red;
       text-align: center;
-      font-size: 1rem;
-      font-weight: 500;
+      font-size: 1.8rem;
+    font-weight: bolder;
   }
  .btn:hover{
      cursor: pointer;
